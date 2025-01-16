@@ -1,4 +1,4 @@
-# Wanderer Wuthery
+# Wuthery Wanderer
 Terms and Conditions for the Bot
 
 # Privacy Policy
