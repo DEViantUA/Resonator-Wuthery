@@ -1,4 +1,4 @@
-# Resonator | Wuthery
+# Wanderer Wuthery
 Terms and Conditions for the Bot
 
 # Privacy Policy
